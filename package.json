@@ -1,11 +1,11 @@
 {
-    "name": "catppuccin-mocha",
+    "name": "catppuccin-latte",
     "version": "1.0.9",
     "sn": {
         "main": "main.css"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/JoeC-Dev/SN_catppuccin_mocha.git"
+        "url": "git://github.com/JoeC-Dev/SN-catppuccin-latte.git"
     }
 }
