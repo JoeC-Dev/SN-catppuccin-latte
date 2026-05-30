@@ -10,7 +10,7 @@ A light [Catppuccin Latte](https://github.com/catppuccin/catppuccin) theme for [
 4. Paste:
 
 ```text
-https://listed.to/p/y3SJQstFfx
+[https://listed.to/p/y3SJQstFfx](https://listed.to/p/UMyYyT0LgA)
 ```
 
 ## Repository Contents
