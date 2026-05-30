@@ -1,6 +1,6 @@
-# Catppuccin Mocha for Standard Notes
+# Catppuccin Latte for Standard Notes
 
-A dark [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) theme for [Standard Notes](https://standardnotes.com/).
+A light [Catppuccin Latte](https://github.com/catppuccin/catppuccin) theme for [Standard Notes](https://standardnotes.com/).
 
 ## Install in Standard Notes
 
@@ -18,13 +18,13 @@ https://listed.to/p/y3SJQstFfx
 - `main.css` — the theme stylesheet used by Standard Notes (`sn.main` in `package.json`).
 - `package.json` — extension metadata (name, version, repository).
 
-## Catppuccin Mocha Palette
+## Catppuccin Latte Palette
 
 | Role | Hex |
 | --- | --- |
-| Base | `#1e1e2e` |
-| Text | `#cdd6f4` |
-| Mauve | `#cba6f7` |
-| Green | `#a6e3a1` |
-| Peach | `#fab387` |
-| Red | `#f38ba8` |
+| Base | `#eff1f5` |
+| Text | `#4c4f69` |
+| Mauve | `#8839ef` |
+| Green | `#40a02b` |
+| Peach | `#fe640b` |
+| Red | `#d20f39` |
