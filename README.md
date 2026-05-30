@@ -1,4 +1,4 @@
-# Catppuccin Mocha for Standard Notes
+# Catppuccin Latte for Standard Notes
 
 A dark [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) theme for [Standard Notes](https://standardnotes.com/).
 
